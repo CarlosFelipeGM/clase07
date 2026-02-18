@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import heroImg from './assets/hero.png';
+import idatImg from './assets/idat.jpg';
 import './App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
           <h1>Trabajando con Hosting y Dominio</h1>
           <h2>¡ Bienvenidos a mi web !</h2>
         </div>
-        <img src={heroImg} className="base" width="170" height="179" alt="" />
+        <img src={idatImg} className="base" width="170" height="179" alt="" />
       </section>
     </>
   );
