@@ -12,7 +12,7 @@ function App() {
           <h1>Trabajando con Hosting y Dominio</h1>
           <h2>¡ Bienvenidos a mi web !</h2>
         </div>
-        <img src={idatImg} className="base" width="170" height="179" alt="" />
+        <img src={idatImg} className="base" height="200" alt="" />
       </section>
     </>
   );
